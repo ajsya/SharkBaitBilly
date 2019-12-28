@@ -1,5 +1,6 @@
 .navbar {
-  background: #4285f4;
+  background: rgb(154,218,255);
+  background: linear-gradient(90deg, rgba(154,218,255,1) 0%, rgba(0,48,255,1) 100%);
   color: white;
   font-size: 20px;
   width: 100%;
